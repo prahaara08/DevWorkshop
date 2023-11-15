@@ -1,0 +1,16 @@
+1) 
+Similar concepts between Yelp and Microsoft (Visual Studio Mobile team) Code Review Guidelines:
+
+Both emphasize clear communication and the importance of providing context for the code being reviewed.
+Both stress the importance of maintainability and readability in the codebase, ensuring that code is easy to understand and well-documented.
+
+Key differences between Yelp and Microsoft (Visual Studio Mobile team) Code Review Guidelines:
+Yelp places a strong emphasis on having a primary reviewer for each code review and making sure the reviewer is as responsible for the final code as the author. Microsoft focuses more on the overall team responsibility in code reviews.
+Microsoft uses an interesting approach called the "Emoji Code" to clarify the intent behind comments in code reviews, whereas Yelp does not mention such a system.
+Items that should be present in a code review checklist:
+
+2) Clear communication about the changes made and their purpose.
+  Verification of code correctness, effectiveness, and adherence to style guidelines.
+  Assessment of code maintainability, including readability and documentation.
+  Ensuring the code is well-tested with adequate coverage.
+  Regular and timely feedback from reviewers.
